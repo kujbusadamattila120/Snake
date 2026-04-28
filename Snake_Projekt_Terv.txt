@@ -1,0 +1,21 @@
+SNAKE JÁTÉK - PROJEKTTERV (SPECIFIKÁCIÓ)
+
+1. VÁLASZTOTT TÉMA:
+- Interaktív Snake (Kígyó) játék JavaScript nyelven.
+
+2. FŐBB FUNKCIÓK:
+- Kígyó mozgatása (nyilak vagy WASD).
+- Pontszerzés (étel megevése után a kígyó nő és a pontszám emelkedik).
+- Játék vége (falnak ütközés vagy saját testtel való ütközés esetén).
+- High Score mentése (LocalStorage használatával a pontszám megmarad).
+- Reszponzív felület (mobilon és asztali gépen is működik).
+
+3. TECHNIKAI STACK:
+- HTML5 (Szemantikus felépítés).
+- CSS3 (Flexbox/Grid, animációk).
+- JavaScript (ES6+, DOM manipuláció, eseménykezelés).
+
+4. ELSŐ MÉRFÖLDKŐ LÉPÉSEI:
+- GitHub repository létrehozása.
+- Alap HTML váz és CSS stílusok kialakítása.
+
